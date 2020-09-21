@@ -18,7 +18,7 @@ Regarding to the data from Thailand Ministry of Commerce, the local food product
 ## Solution
 To solve the problems and make products different, this project focuses on how to create new value for food products in terms of wellness to improve nutritional quality and differentiate each product.
 
-## Method
+## Methodology
 This project experiment wants to use machine learning to create models for food products by collecting food nutrition.
 So the model can suggest If they want to improve their products to be healthier, what kind of nutrition that they have to have on their products.
 
